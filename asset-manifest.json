@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AMESE-offical/static/css/main.073c9b0a.css",
+    "main.js": "/AMESE-offical/static/js/main.5a8a7eac.js",
+    "static/js/787.13faf1b4.chunk.js": "/AMESE-offical/static/js/787.13faf1b4.chunk.js",
+    "static/media/logo.svg": "/AMESE-offical/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AMESE-offical/index.html",
+    "main.073c9b0a.css.map": "/AMESE-offical/static/css/main.073c9b0a.css.map",
+    "main.5a8a7eac.js.map": "/AMESE-offical/static/js/main.5a8a7eac.js.map",
+    "787.13faf1b4.chunk.js.map": "/AMESE-offical/static/js/787.13faf1b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5a8a7eac.js"
+  ]
+}
